@@ -38,7 +38,7 @@ Aivaara is currently built and led by:
 - Vision-driven builder  
 - Focused on excellence and innovation
 
- ### **Abhishek Maurya**  
+ ### **Priyanshi Limbasiya**  
 **Co-Founder, Co-Lead Engineer**
 - Full-stack developer  
 - AI/ML enthusiast  
