@@ -1,5 +1,4 @@
 # 🌌 **Aivaara**  
-### _Innovating the Future — One Line of Code at a Time_
 
 Aivaara is a modern engineering organization focused on building **intelligent, scalable, and beautifully crafted technologies**.  
 We combine the power of **AI**, **full-stack development**, and **automation** to create tools, applications, and digital experiences that shape the future.
@@ -28,16 +27,23 @@ who believe in solving real problems through code, creativity, and engineering d
 
 ---
 
-# 👥 **Team (Optional Section)**
+# 👥 **Team**
 
 Aivaara is currently built and led by:
 
-### **Founder, Lead Engineer**
-**Abhishek Maurya**  
+### **Abhishek Maurya**  
+**Founder, Lead Engineer**
 - Full-stack developer  
 - AI/ML enthusiast  
 - Vision-driven builder  
 - Focused on excellence and innovation
+
+ ### **Abhishek Maurya**  
+**Co-Founder, Co-Lead Engineer**
+- Full-stack developer  
+- AI/ML enthusiast  
+- Researcher  
+- Focused on creativity and innovation
 
 ---
 
